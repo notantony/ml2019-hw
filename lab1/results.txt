@@ -1,0 +1,503 @@
+0.5076264881076007 : k=  1, dist=manhattan, kernel=uniform 
+0.5076264881076007 : k=  1, dist=manhattan, kernel=triangular
+0.5076264881076007 : k=  1, dist=manhattan, kernel=epanechnikov
+0.5076264881076007 : k=  1, dist=manhattan, kernel=quartic 
+0.5076264881076007 : k=  1, dist=manhattan, kernel=triweight
+0.5389918887601389 : k=  1, dist=manhattan, kernel=gaussian
+0.5076264881076007 : k=  1, dist=manhattan, kernel=cosine  
+0.6066838046272494 : k=  1, dist=manhattan, kernel=logistic
+0.6062316728630708 : k=  1, dist=manhattan, kernel=sigmoid 
+0.5076264881076007 : k=  1, dist=manhattan, kernel=tricube 
+0.4866882941335496 : k=  1, dist=euclidean, kernel=uniform 
+0.4866882941335496 : k=  1, dist=euclidean, kernel=triangular
+0.4866882941335496 : k=  1, dist=euclidean, kernel=epanechnikov
+0.4866882941335496 : k=  1, dist=euclidean, kernel=quartic 
+0.4866882941335496 : k=  1, dist=euclidean, kernel=triweight
+0.5877540129151952 : k=  1, dist=euclidean, kernel=gaussian
+0.4866882941335496 : k=  1, dist=euclidean, kernel=cosine  
+0.6257100382800016 : k=  1, dist=euclidean, kernel=logistic
+0.6170699078652856 : k=  1, dist=euclidean, kernel=sigmoid 
+0.4866882941335496 : k=  1, dist=euclidean, kernel=tricube 
+0.4563447497719823 : k=  1, dist=chebyshev, kernel=uniform 
+0.4563447497719823 : k=  1, dist=chebyshev, kernel=triangular
+0.4563447497719823 : k=  1, dist=chebyshev, kernel=epanechnikov
+0.4563447497719823 : k=  1, dist=chebyshev, kernel=quartic 
+0.4563447497719823 : k=  1, dist=chebyshev, kernel=triweight
+0.591376092066945 : k=  1, dist=chebyshev, kernel=gaussian
+0.4563447497719823 : k=  1, dist=chebyshev, kernel=cosine  
+0.6410289751512163 : k=  1, dist=chebyshev, kernel=logistic
+0.6439639559335866 : k=  1, dist=chebyshev, kernel=sigmoid 
+0.4563447497719823 : k=  1, dist=chebyshev, kernel=tricube 
+0.5076264881076007 : k=  2, dist=manhattan, kernel=uniform 
+0.5076264881076007 : k=  2, dist=manhattan, kernel=triangular
+0.5076264881076007 : k=  2, dist=manhattan, kernel=epanechnikov
+0.5076264881076007 : k=  2, dist=manhattan, kernel=quartic 
+0.5076264881076007 : k=  2, dist=manhattan, kernel=triweight
+0.5525600315408673 : k=  2, dist=manhattan, kernel=gaussian
+0.5076264881076007 : k=  2, dist=manhattan, kernel=cosine  
+0.6226485270551388 : k=  2, dist=manhattan, kernel=logistic
+0.612874111199397 : k=  2, dist=manhattan, kernel=sigmoid 
+0.5076264881076007 : k=  2, dist=manhattan, kernel=tricube 
+0.4866882941335496 : k=  2, dist=euclidean, kernel=uniform 
+0.4866882941335496 : k=  2, dist=euclidean, kernel=triangular
+0.4866882941335496 : k=  2, dist=euclidean, kernel=epanechnikov
+0.4866882941335496 : k=  2, dist=euclidean, kernel=quartic 
+0.4866882941335496 : k=  2, dist=euclidean, kernel=triweight
+0.6055975436939065 : k=  2, dist=euclidean, kernel=gaussian
+0.4866882941335496 : k=  2, dist=euclidean, kernel=cosine  
+0.6329540897255559 : k=  2, dist=euclidean, kernel=logistic
+0.620893872650269 : k=  2, dist=euclidean, kernel=sigmoid 
+0.4866882941335496 : k=  2, dist=euclidean, kernel=tricube 
+0.4563447497719823 : k=  2, dist=chebyshev, kernel=uniform 
+0.4563447497719823 : k=  2, dist=chebyshev, kernel=triangular
+0.4563447497719823 : k=  2, dist=chebyshev, kernel=epanechnikov
+0.4563447497719823 : k=  2, dist=chebyshev, kernel=quartic 
+0.4563447497719823 : k=  2, dist=chebyshev, kernel=triweight
+0.6366953835310252 : k=  2, dist=chebyshev, kernel=gaussian
+0.4563447497719823 : k=  2, dist=chebyshev, kernel=cosine  
+0.6558817545587542 : k=  2, dist=chebyshev, kernel=logistic
+0.6558817545587542 : k=  2, dist=chebyshev, kernel=sigmoid 
+0.4563447497719823 : k=  2, dist=chebyshev, kernel=tricube 
+0.4889603494136764 : k=  3, dist=manhattan, kernel=uniform 
+0.5028450948029468 : k=  3, dist=manhattan, kernel=triangular
+0.49401288022618933 : k=  3, dist=manhattan, kernel=epanechnikov
+0.5134195914022304 : k=  3, dist=manhattan, kernel=quartic 
+0.5134195914022304 : k=  3, dist=manhattan, kernel=triweight
+0.5769566084010018 : k=  3, dist=manhattan, kernel=gaussian
+0.4891398557747022 : k=  3, dist=manhattan, kernel=cosine  
+0.6777579602379136 : k=  3, dist=manhattan, kernel=logistic
+0.6652500173542818 : k=  3, dist=manhattan, kernel=sigmoid 
+0.5134195914022304 : k=  3, dist=manhattan, kernel=tricube 
+0.4868606648470585 : k=  3, dist=euclidean, kernel=uniform 
+0.4907007508044333 : k=  3, dist=euclidean, kernel=triangular
+0.49640708866781635 : k=  3, dist=euclidean, kernel=epanechnikov
+0.48567677023789574 : k=  3, dist=euclidean, kernel=quartic 
+0.4913592419664928 : k=  3, dist=euclidean, kernel=triweight
+0.6372685724129818 : k=  3, dist=euclidean, kernel=gaussian
+0.49640708866781635 : k=  3, dist=euclidean, kernel=cosine  
+0.6878005885910644 : k=  3, dist=euclidean, kernel=logistic
+0.6805237038244267 : k=  3, dist=euclidean, kernel=sigmoid 
+0.49708756569654244 : k=  3, dist=euclidean, kernel=tricube 
+0.47533630019217155 : k=  3, dist=chebyshev, kernel=uniform 
+0.47040240483620954 : k=  3, dist=chebyshev, kernel=triangular
+0.47533630019217155 : k=  3, dist=chebyshev, kernel=epanechnikov
+0.46905258122928695 : k=  3, dist=chebyshev, kernel=quartic 
+0.4697738453472756 : k=  3, dist=chebyshev, kernel=triweight
+0.6797886660353814 : k=  3, dist=chebyshev, kernel=gaussian
+0.47533630019217155 : k=  3, dist=chebyshev, kernel=cosine  
+0.6878005885910644 : k=  3, dist=chebyshev, kernel=logistic
+0.6878005885910644 : k=  3, dist=chebyshev, kernel=sigmoid 
+0.46905258122928695 : k=  3, dist=chebyshev, kernel=tricube 
+0.5061289650615469 : k=  4, dist=manhattan, kernel=uniform 
+0.49875576773316355 : k=  4, dist=manhattan, kernel=triangular
+0.47630963827899636 : k=  4, dist=manhattan, kernel=epanechnikov
+0.5133482958503661 : k=  4, dist=manhattan, kernel=quartic 
+0.5140747577068658 : k=  4, dist=manhattan, kernel=triweight
+0.6066012730463216 : k=  4, dist=manhattan, kernel=gaussian
+0.4821416332174967 : k=  4, dist=manhattan, kernel=cosine  
+0.6772013835348042 : k=  4, dist=manhattan, kernel=logistic
+0.6597372626640277 : k=  4, dist=manhattan, kernel=sigmoid 
+0.5044105814089592 : k=  4, dist=manhattan, kernel=tricube 
+0.44960576152840337 : k=  4, dist=euclidean, kernel=uniform 
+0.4862753151603033 : k=  4, dist=euclidean, kernel=triangular
+0.4862753151603033 : k=  4, dist=euclidean, kernel=epanechnikov
+0.4912317138500844 : k=  4, dist=euclidean, kernel=quartic 
+0.48550512451454136 : k=  4, dist=euclidean, kernel=triweight
+0.6552529761904763 : k=  4, dist=euclidean, kernel=gaussian
+0.4920038331680465 : k=  4, dist=euclidean, kernel=cosine  
+0.6878005885910644 : k=  4, dist=euclidean, kernel=logistic
+0.6853472376504728 : k=  4, dist=euclidean, kernel=sigmoid 
+0.49691689008042894 : k=  4, dist=euclidean, kernel=tricube 
+0.4779586290627128 : k=  4, dist=chebyshev, kernel=uniform 
+0.4700742123017297 : k=  4, dist=chebyshev, kernel=triangular
+0.47500801268534604 : k=  4, dist=chebyshev, kernel=epanechnikov
+0.47442237535468174 : k=  4, dist=chebyshev, kernel=quartic 
+0.47523436473933245 : k=  4, dist=chebyshev, kernel=triweight
+0.6878005885910644 : k=  4, dist=chebyshev, kernel=gaussian
+0.47500801268534604 : k=  4, dist=chebyshev, kernel=cosine  
+0.6878005885910644 : k=  4, dist=chebyshev, kernel=logistic
+0.6878005885910644 : k=  4, dist=chebyshev, kernel=sigmoid 
+0.47442237535468174 : k=  4, dist=chebyshev, kernel=tricube 
+0.5330944008655666 : k=  7, dist=manhattan, kernel=uniform 
+0.5094791470088695 : k=  7, dist=manhattan, kernel=triangular
+0.49726908284324695 : k=  7, dist=manhattan, kernel=epanechnikov
+0.5091379625940801 : k=  7, dist=manhattan, kernel=quartic 
+0.5138360592772782 : k=  7, dist=manhattan, kernel=triweight
+0.6300657291298878 : k=  7, dist=manhattan, kernel=gaussian
+0.5024568010633585 : k=  7, dist=manhattan, kernel=cosine  
+0.6675747508305647 : k=  7, dist=manhattan, kernel=logistic
+0.6701170637573165 : k=  7, dist=manhattan, kernel=sigmoid 
+0.4909377077453478 : k=  7, dist=manhattan, kernel=tricube 
+0.5111633355489598 : k=  7, dist=euclidean, kernel=uniform 
+0.4750926622832555 : k=  7, dist=euclidean, kernel=triangular
+0.49217670617362214 : k=  7, dist=euclidean, kernel=epanechnikov
+0.477930525751073 : k=  7, dist=euclidean, kernel=quartic 
+0.47209796500280043 : k=  7, dist=euclidean, kernel=triweight
+0.6785569362589565 : k=  7, dist=euclidean, kernel=gaussian
+0.49175717515761636 : k=  7, dist=euclidean, kernel=cosine  
+0.6842105263157895 : k=  7, dist=euclidean, kernel=logistic
+0.6764686468646864 : k=  7, dist=euclidean, kernel=sigmoid 
+0.49005100956429326 : k=  7, dist=euclidean, kernel=tricube 
+0.4806341268253651 : k=  7, dist=chebyshev, kernel=uniform 
+0.45085237805733525 : k=  7, dist=chebyshev, kernel=triangular
+0.47804622949604875 : k=  7, dist=chebyshev, kernel=epanechnikov
+0.4507424122504196 : k=  7, dist=chebyshev, kernel=quartic 
+0.47164396495764555 : k=  7, dist=chebyshev, kernel=triweight
+0.6842105263157895 : k=  7, dist=chebyshev, kernel=gaussian
+0.46130179137550875 : k=  7, dist=chebyshev, kernel=cosine  
+0.6842105263157895 : k=  7, dist=chebyshev, kernel=logistic
+0.6842105263157895 : k=  7, dist=chebyshev, kernel=sigmoid 
+0.4515123532603772 : k=  7, dist=chebyshev, kernel=tricube 
+0.5438869940389603 : k= 11, dist=manhattan, kernel=uniform 
+0.5240120436582613 : k= 11, dist=manhattan, kernel=triangular
+0.5346888502098904 : k= 11, dist=manhattan, kernel=epanechnikov
+0.530032880451641 : k= 11, dist=manhattan, kernel=quartic 
+0.5255491188487103 : k= 11, dist=manhattan, kernel=triweight
+0.6598105019108129 : k= 11, dist=manhattan, kernel=gaussian
+0.530161324549419 : k= 11, dist=manhattan, kernel=cosine  
+0.6842105263157895 : k= 11, dist=manhattan, kernel=logistic
+0.6842105263157895 : k= 11, dist=manhattan, kernel=sigmoid 
+0.5233410888185668 : k= 11, dist=manhattan, kernel=tricube 
+0.503080883521373 : k= 11, dist=euclidean, kernel=uniform 
+0.49435464972498183 : k= 11, dist=euclidean, kernel=triangular
+0.49758450998681286 : k= 11, dist=euclidean, kernel=epanechnikov
+0.5083916745035402 : k= 11, dist=euclidean, kernel=quartic 
+0.4763582842724979 : k= 11, dist=euclidean, kernel=triweight
+0.6842105263157895 : k= 11, dist=euclidean, kernel=gaussian
+0.4868125961988529 : k= 11, dist=euclidean, kernel=cosine  
+0.6842105263157895 : k= 11, dist=euclidean, kernel=logistic
+0.6842105263157895 : k= 11, dist=euclidean, kernel=sigmoid 
+0.49709260674513744 : k= 11, dist=euclidean, kernel=tricube 
+0.5053708475753044 : k= 11, dist=chebyshev, kernel=uniform 
+0.4744122290493258 : k= 11, dist=chebyshev, kernel=triangular
+0.49592186296169677 : k= 11, dist=chebyshev, kernel=epanechnikov
+0.5459474703763806 : k= 16, dist=manhattan, kernel=uniform 
+0.5503524340887094 : k= 16, dist=manhattan, kernel=triangular
+0.5430366185666633 : k= 16, dist=manhattan, kernel=epanechnikov
+0.5389434693011556 : k= 16, dist=manhattan, kernel=quartic 
+0.5246544550493453 : k= 16, dist=manhattan, kernel=triweight
+0.670739381586524 : k= 16, dist=manhattan, kernel=gaussian
+0.5470065586627402 : k= 16, dist=manhattan, kernel=cosine  
+0.6842105263157895 : k= 16, dist=manhattan, kernel=logistic
+0.6842105263157895 : k= 16, dist=manhattan, kernel=sigmoid 
+0.5437426799115083 : k= 16, dist=manhattan, kernel=tricube 
+0.517137877802266 : k= 16, dist=euclidean, kernel=uniform 
+0.5391216819547042 : k= 16, dist=euclidean, kernel=triangular
+0.5349795296297403 : k= 16, dist=euclidean, kernel=epanechnikov
+0.5141322120999767 : k= 16, dist=euclidean, kernel=quartic 
+0.4983643552898061 : k= 16, dist=euclidean, kernel=triweight
+0.6842105263157895 : k= 16, dist=euclidean, kernel=gaussian
+0.5306367672693634 : k= 16, dist=euclidean, kernel=cosine  
+0.6842105263157895 : k= 16, dist=euclidean, kernel=logistic
+0.6842105263157895 : k= 16, dist=euclidean, kernel=sigmoid 
+0.5132149655193934 : k= 16, dist=euclidean, kernel=tricube 
+0.49522704050353533 : k= 16, dist=chebyshev, kernel=uniform 
+0.4864485117605293 : k= 16, dist=chebyshev, kernel=triangular
+0.4819481382978723 : k= 16, dist=chebyshev, kernel=epanechnikov
+0.4869941287517969 : k= 16, dist=chebyshev, kernel=quartic 
+0.5047299501343564 : k= 16, dist=chebyshev, kernel=triweight
+0.6842105263157895 : k= 16, dist=chebyshev, kernel=gaussian
+0.4747197515653744 : k= 16, dist=chebyshev, kernel=cosine  
+0.6842105263157895 : k= 16, dist=chebyshev, kernel=logistic
+0.6842105263157895 : k= 16, dist=chebyshev, kernel=sigmoid 
+0.4920142900734046 : k= 16, dist=chebyshev, kernel=tricube 
+0.5621230210689204 : k= 22, dist=manhattan, kernel=uniform 
+0.538192604490053 : k= 22, dist=manhattan, kernel=triangular
+0.546012177778325 : k= 22, dist=manhattan, kernel=epanechnikov
+0.5328102299333614 : k= 22, dist=manhattan, kernel=quartic 
+0.5538438741034913 : k= 22, dist=manhattan, kernel=triweight
+0.6764686468646864 : k= 22, dist=manhattan, kernel=gaussian
+0.5392985294839749 : k= 22, dist=manhattan, kernel=cosine  
+0.6842105263157895 : k= 22, dist=manhattan, kernel=logistic
+0.6842105263157895 : k= 22, dist=manhattan, kernel=sigmoid 
+0.5319033856186391 : k= 22, dist=manhattan, kernel=tricube 
+0.5165263681680887 : k= 22, dist=euclidean, kernel=uniform 
+0.5429725100015024 : k= 22, dist=euclidean, kernel=triangular
+0.5560690681953014 : k= 22, dist=euclidean, kernel=epanechnikov
+0.5132352347986351 : k= 22, dist=euclidean, kernel=quartic 
+0.5069829980637862 : k= 22, dist=euclidean, kernel=triweight
+0.6842105263157895 : k= 22, dist=euclidean, kernel=gaussian
+0.5430746986048838 : k= 22, dist=euclidean, kernel=cosine  
+0.6842105263157895 : k= 22, dist=euclidean, kernel=logistic
+0.6842105263157895 : k= 22, dist=euclidean, kernel=sigmoid 
+0.49432391549497307 : k= 22, dist=euclidean, kernel=tricube 
+0.49522704050353533 : k= 22, dist=chebyshev, kernel=uniform 
+0.49228350557855205 : k= 22, dist=chebyshev, kernel=triangular
+0.4879510120992235 : k= 22, dist=chebyshev, kernel=epanechnikov
+0.49285106033432363 : k= 22, dist=chebyshev, kernel=quartic 
+0.5016636431346768 : k= 22, dist=chebyshev, kernel=triweight
+0.6842105263157895 : k= 22, dist=chebyshev, kernel=gaussian
+0.48063741832244294 : k= 22, dist=chebyshev, kernel=cosine  
+0.6842105263157895 : k= 22, dist=chebyshev, kernel=logistic
+0.6842105263157895 : k= 22, dist=chebyshev, kernel=sigmoid 
+0.4978712374808571 : k= 22, dist=chebyshev, kernel=tricube 
+0.5860106997703461 : k= 29, dist=manhattan, kernel=uniform 
+0.5576880529392427 : k= 29, dist=manhattan, kernel=triangular
+0.5399392150830691 : k= 29, dist=manhattan, kernel=epanechnikov
+0.539784726212667 : k= 29, dist=manhattan, kernel=quartic 
+0.5321724748611263 : k= 29, dist=manhattan, kernel=triweight
+0.6764686468646864 : k= 29, dist=manhattan, kernel=gaussian
+0.5330084551887531 : k= 29, dist=manhattan, kernel=cosine  
+0.6842105263157895 : k= 29, dist=manhattan, kernel=logistic
+0.6842105263157895 : k= 29, dist=manhattan, kernel=sigmoid 
+0.5311677921222334 : k= 29, dist=manhattan, kernel=tricube 
+0.5144752647548547 : k= 29, dist=euclidean, kernel=uniform 
+0.5508442385639837 : k= 29, dist=euclidean, kernel=triangular
+0.5311570469798658 : k= 29, dist=euclidean, kernel=epanechnikov
+0.5413782463677465 : k= 29, dist=euclidean, kernel=quartic 
+0.5273393009200606 : k= 29, dist=euclidean, kernel=triweight
+0.6842105263157895 : k= 29, dist=euclidean, kernel=gaussian
+0.5217244643539035 : k= 29, dist=euclidean, kernel=cosine  
+0.6842105263157895 : k= 29, dist=euclidean, kernel=logistic
+0.6842105263157895 : k= 29, dist=euclidean, kernel=sigmoid 
+0.5263692785600603 : k= 29, dist=euclidean, kernel=tricube 
+0.49522704050353533 : k= 29, dist=chebyshev, kernel=uniform 
+0.49228350557855205 : k= 29, dist=chebyshev, kernel=triangular
+0.4879510120992235 : k= 29, dist=chebyshev, kernel=epanechnikov
+0.49285106033432363 : k= 29, dist=chebyshev, kernel=quartic 
+0.5016636431346768 : k= 29, dist=chebyshev, kernel=triweight
+0.6842105263157895 : k= 29, dist=chebyshev, kernel=gaussian
+0.48063741832244294 : k= 29, dist=chebyshev, kernel=cosine  
+0.6842105263157895 : k= 29, dist=chebyshev, kernel=logistic
+0.6842105263157895 : k= 29, dist=chebyshev, kernel=sigmoid 
+0.4978712374808571 : k= 29, dist=chebyshev, kernel=tricube 
+0.587321907782386 : k= 37, dist=manhattan, kernel=uniform 
+0.5388377946117511 : k= 37, dist=manhattan, kernel=triangular
+0.5724658794884592 : k= 37, dist=manhattan, kernel=epanechnikov
+0.5216790438951282 : k= 37, dist=manhattan, kernel=quartic 
+0.5378125271194192 : k= 37, dist=manhattan, kernel=triweight
+0.6842105263157895 : k= 37, dist=manhattan, kernel=gaussian
+0.5628267000200593 : k= 37, dist=manhattan, kernel=cosine  
+0.6842105263157895 : k= 37, dist=manhattan, kernel=logistic
+0.6842105263157895 : k= 37, dist=manhattan, kernel=sigmoid 
+0.5147902112094088 : k= 37, dist=manhattan, kernel=tricube 
+0.5417816332500731 : k= 37, dist=euclidean, kernel=uniform 
+0.5634724579540196 : k= 37, dist=euclidean, kernel=triangular
+0.5588543906936733 : k= 37, dist=euclidean, kernel=epanechnikov
+0.544311903750055 : k= 37, dist=euclidean, kernel=quartic 
+0.5383634146341464 : k= 37, dist=euclidean, kernel=triweight
+0.6842105263157895 : k= 37, dist=euclidean, kernel=gaussian
+0.5373219520460245 : k= 37, dist=euclidean, kernel=cosine  
+0.6842105263157895 : k= 37, dist=euclidean, kernel=logistic
+0.6842105263157895 : k= 37, dist=euclidean, kernel=sigmoid 
+0.5305446885344567 : k= 37, dist=euclidean, kernel=tricube 
+0.49522704050353533 : k= 37, dist=chebyshev, kernel=uniform 
+0.49228350557855205 : k= 37, dist=chebyshev, kernel=triangular
+0.4879510120992235 : k= 37, dist=chebyshev, kernel=epanechnikov
+0.49285106033432363 : k= 37, dist=chebyshev, kernel=quartic 
+0.5016636431346768 : k= 37, dist=chebyshev, kernel=triweight
+0.6842105263157895 : k= 37, dist=chebyshev, kernel=gaussian
+0.48063741832244294 : k= 37, dist=chebyshev, kernel=cosine  
+0.6842105263157895 : k= 37, dist=chebyshev, kernel=logistic
+0.6842105263157895 : k= 37, dist=chebyshev, kernel=sigmoid 
+0.4978712374808571 : k= 37, dist=chebyshev, kernel=tricube 
+0.6061784938294931 : k= 46, dist=manhattan, kernel=uniform 
+0.5597757070522323 : k= 46, dist=manhattan, kernel=triangular
+0.5942094672128876 : k= 46, dist=manhattan, kernel=epanechnikov
+0.5290998277069286 : k= 46, dist=manhattan, kernel=quartic 
+0.5282574363180332 : k= 46, dist=manhattan, kernel=triweight
+0.6842105263157895 : k= 46, dist=manhattan, kernel=gaussian
+0.5869632548401186 : k= 46, dist=manhattan, kernel=cosine  
+0.6842105263157895 : k= 46, dist=manhattan, kernel=logistic
+0.6842105263157895 : k= 46, dist=manhattan, kernel=sigmoid 
+0.5302589047544327 : k= 46, dist=manhattan, kernel=tricube 
+0.6059674162420409 : k= 46, dist=euclidean, kernel=uniform 
+0.5659617403921419 : k= 46, dist=euclidean, kernel=triangular
+0.5945414974974808 : k= 46, dist=euclidean, kernel=epanechnikov
+0.5570421442108113 : k= 46, dist=euclidean, kernel=quartic 
+0.5471050944397039 : k= 46, dist=euclidean, kernel=triweight
+0.6842105263157895 : k= 46, dist=euclidean, kernel=gaussian
+0.587351213210118 : k= 46, dist=euclidean, kernel=cosine  
+0.6842105263157895 : k= 46, dist=euclidean, kernel=logistic
+0.6842105263157895 : k= 46, dist=euclidean, kernel=sigmoid 
+0.5399096612900844 : k= 46, dist=euclidean, kernel=tricube 
+0.49522704050353533 : k= 46, dist=chebyshev, kernel=uniform 
+0.49228350557855205 : k= 46, dist=chebyshev, kernel=triangular
+0.4879510120992235 : k= 46, dist=chebyshev, kernel=epanechnikov
+0.49285106033432363 : k= 46, dist=chebyshev, kernel=quartic 
+0.5016636431346768 : k= 46, dist=chebyshev, kernel=triweight
+0.6842105263157895 : k= 46, dist=chebyshev, kernel=gaussian
+0.48063741832244294 : k= 46, dist=chebyshev, kernel=cosine  
+0.6842105263157895 : k= 46, dist=chebyshev, kernel=logistic
+0.6842105263157895 : k= 46, dist=chebyshev, kernel=sigmoid 
+0.4978712374808571 : k= 46, dist=chebyshev, kernel=tricube 
+0.6654456514141449 : k= 56, dist=manhattan, kernel=uniform 
+0.5954209408693357 : k= 56, dist=manhattan, kernel=triangular
+0.6144315753963792 : k= 56, dist=manhattan, kernel=epanechnikov
+0.563995180999369 : k= 56, dist=manhattan, kernel=quartic 
+0.5216790438951282 : k= 56, dist=manhattan, kernel=triweight
+0.6842105263157895 : k= 56, dist=manhattan, kernel=gaussian
+0.6096955593254166 : k= 56, dist=manhattan, kernel=cosine  
+0.6842105263157895 : k= 56, dist=manhattan, kernel=logistic
+0.6842105263157895 : k= 56, dist=manhattan, kernel=sigmoid 
+0.5711511526476133 : k= 56, dist=manhattan, kernel=tricube 
+0.6792523671889763 : k= 56, dist=euclidean, kernel=uniform 
+0.590849003272106 : k= 56, dist=euclidean, kernel=triangular
+0.62436479182674 : k= 56, dist=euclidean, kernel=epanechnikov
+0.5314116155886426 : k= 56, dist=euclidean, kernel=quartic 
+0.5366473055900126 : k= 56, dist=euclidean, kernel=triweight
+0.6842105263157895 : k= 56, dist=euclidean, kernel=gaussian
+0.6271781169747741 : k= 56, dist=euclidean, kernel=cosine  
+0.6842105263157895 : k= 56, dist=euclidean, kernel=logistic
+0.6842105263157895 : k= 56, dist=euclidean, kernel=sigmoid 
+0.5275594079536975 : k= 56, dist=euclidean, kernel=tricube 
+0.49522704050353533 : k= 56, dist=chebyshev, kernel=uniform 
+0.49228350557855205 : k= 56, dist=chebyshev, kernel=triangular
+0.4879510120992235 : k= 56, dist=chebyshev, kernel=epanechnikov
+0.49285106033432363 : k= 56, dist=chebyshev, kernel=quartic 
+0.5016636431346768 : k= 56, dist=chebyshev, kernel=triweight
+0.6842105263157895 : k= 56, dist=chebyshev, kernel=gaussian
+0.48063741832244294 : k= 56, dist=chebyshev, kernel=cosine  
+0.6842105263157895 : k= 56, dist=chebyshev, kernel=logistic
+0.6842105263157895 : k= 56, dist=chebyshev, kernel=sigmoid 
+0.4978712374808571 : k= 56, dist=chebyshev, kernel=tricube 
+0.6758359925941447 : k= 79, dist=manhattan, kernel=uniform 
+0.6456090071647901 : k= 79, dist=manhattan, kernel=triangular
+0.6654456514141449 : k= 79, dist=manhattan, kernel=epanechnikov
+0.6385700221448909 : k= 79, dist=manhattan, kernel=quartic 
+0.563995180999369 : k= 79, dist=manhattan, kernel=triweight
+0.6842105263157895 : k= 79, dist=manhattan, kernel=gaussian
+0.657887110999118 : k= 79, dist=manhattan, kernel=cosine  
+0.6842105263157895 : k= 79, dist=manhattan, kernel=logistic
+0.6842105263157895 : k= 79, dist=manhattan, kernel=sigmoid 
+0.6117411603213051 : k= 79, dist=manhattan, kernel=tricube 
+0.6650260831818174 : k= 79, dist=euclidean, kernel=uniform 
+0.6307004489459866 : k= 79, dist=euclidean, kernel=triangular
+0.6377159693334307 : k= 79, dist=euclidean, kernel=epanechnikov
+0.5922974560558565 : k= 79, dist=euclidean, kernel=quartic 
+0.5651581900404435 : k= 79, dist=euclidean, kernel=triweight
+0.6842105263157895 : k= 79, dist=euclidean, kernel=gaussian
+0.6201501016343369 : k= 79, dist=euclidean, kernel=cosine  
+0.6842105263157895 : k= 79, dist=euclidean, kernel=logistic
+0.6842105263157895 : k= 79, dist=euclidean, kernel=sigmoid 
+0.5777591806859639 : k= 79, dist=euclidean, kernel=tricube 
+0.5062144032400963 : k= 79, dist=chebyshev, kernel=uniform 
+0.5025410646177285 : k= 79, dist=chebyshev, kernel=triangular
+0.4995674586975517 : k= 79, dist=chebyshev, kernel=epanechnikov
+0.5032512371810285 : k= 79, dist=chebyshev, kernel=quartic 
+0.5121464872452445 : k= 79, dist=chebyshev, kernel=triweight
+0.6842105263157895 : k= 79, dist=chebyshev, kernel=gaussian
+0.49172160669806103 : k= 79, dist=chebyshev, kernel=cosine  
+0.6842105263157895 : k= 79, dist=chebyshev, kernel=logistic
+0.6842105263157895 : k= 79, dist=chebyshev, kernel=sigmoid 
+0.5080599987552126 : k= 79, dist=chebyshev, kernel=tricube 
+0.6873564544982399 : k=106, dist=manhattan, kernel=uniform 
+0.6667825689256858 : k=106, dist=manhattan, kernel=triangular
+0.6605126162393102 : k=106, dist=manhattan, kernel=epanechnikov
+0.657887110999118 : k=106, dist=manhattan, kernel=quartic 
+0.6350300795653019 : k=106, dist=manhattan, kernel=triweight
+0.6842105263157895 : k=106, dist=manhattan, kernel=gaussian
+0.6636526279706423 : k=106, dist=manhattan, kernel=cosine  
+0.6842105263157895 : k=106, dist=manhattan, kernel=logistic
+0.6842105263157895 : k=106, dist=manhattan, kernel=sigmoid 
+0.657887110999118 : k=106, dist=manhattan, kernel=tricube 
+0.6873564544982399 : k=106, dist=euclidean, kernel=uniform 
+0.6648162737952293 : k=106, dist=euclidean, kernel=triangular
+0.66933657533225 : k=106, dist=euclidean, kernel=epanechnikov
+0.6188132339013926 : k=106, dist=euclidean, kernel=quartic 
+0.5776726548961068 : k=106, dist=euclidean, kernel=triweight
+0.6842105263157895 : k=106, dist=euclidean, kernel=gaussian
+0.6616785438189612 : k=106, dist=euclidean, kernel=cosine  
+0.6842105263157895 : k=106, dist=euclidean, kernel=logistic
+0.6842105263157895 : k=106, dist=euclidean, kernel=sigmoid 
+0.6148478615326728 : k=106, dist=euclidean, kernel=tricube 
+0.5062144032400963 : k=106, dist=chebyshev, kernel=uniform 
+0.5025410646177285 : k=106, dist=chebyshev, kernel=triangular
+0.4995674586975517 : k=106, dist=chebyshev, kernel=epanechnikov
+0.5032512371810285 : k=106, dist=chebyshev, kernel=quartic 
+0.5121464872452445 : k=106, dist=chebyshev, kernel=triweight
+0.6842105263157895 : k=106, dist=chebyshev, kernel=gaussian
+0.49172160669806103 : k=106, dist=chebyshev, kernel=cosine  
+0.6842105263157895 : k=106, dist=chebyshev, kernel=logistic
+0.6842105263157895 : k=106, dist=chebyshev, kernel=sigmoid 
+0.5080599987552126 : k=106, dist=chebyshev, kernel=tricube 
+0.6842105263157895 : k=121, dist=manhattan, kernel=uniform 
+0.66933657533225 : k=121, dist=manhattan, kernel=triangular
+0.6784524061258219 : k=121, dist=manhattan, kernel=epanechnikov
+0.6560293859677812 : k=121, dist=manhattan, kernel=quartic 
+0.6424781129843241 : k=121, dist=manhattan, kernel=triweight
+0.6842105263157895 : k=121, dist=manhattan, kernel=gaussian
+0.6815860084735635 : k=121, dist=manhattan, kernel=cosine  
+0.6842105263157895 : k=121, dist=manhattan, kernel=logistic
+0.6842105263157895 : k=121, dist=manhattan, kernel=sigmoid 
+0.6654456514141449 : k=121, dist=manhattan, kernel=tricube 
+0.6842105263157895 : k=121, dist=euclidean, kernel=uniform 
+0.6585272639038994 : k=121, dist=euclidean, kernel=triangular
+0.670739381586524 : k=121, dist=euclidean, kernel=epanechnikov
+0.6480294521721068 : k=121, dist=euclidean, kernel=quartic 
+0.5938602204253043 : k=121, dist=euclidean, kernel=triweight
+0.6842105263157895 : k=121, dist=euclidean, kernel=gaussian
+0.670739381586524 : k=121, dist=euclidean, kernel=cosine  
+0.6842105263157895 : k=121, dist=euclidean, kernel=logistic
+0.6842105263157895 : k=121, dist=euclidean, kernel=sigmoid 
+0.6480294521721068 : k=121, dist=euclidean, kernel=tricube 
+0.5062144032400963 : k=121, dist=chebyshev, kernel=uniform 
+0.5025410646177285 : k=121, dist=chebyshev, kernel=triangular
+0.4995674586975517 : k=121, dist=chebyshev, kernel=epanechnikov
+0.5032512371810285 : k=121, dist=chebyshev, kernel=quartic 
+0.5121464872452445 : k=121, dist=chebyshev, kernel=triweight
+0.6842105263157895 : k=121, dist=chebyshev, kernel=gaussian
+0.49172160669806103 : k=121, dist=chebyshev, kernel=cosine  
+0.6842105263157895 : k=121, dist=chebyshev, kernel=logistic
+0.6842105263157895 : k=121, dist=chebyshev, kernel=sigmoid 
+0.5080599987552126 : k=121, dist=chebyshev, kernel=tricube 
+0.6842105263157895 : k=151, dist=manhattan, kernel=uniform 
+0.6796243208942557 : k=151, dist=manhattan, kernel=triangular
+0.6842105263157895 : k=151, dist=manhattan, kernel=epanechnikov
+0.6815860084735635 : k=151, dist=manhattan, kernel=quartic 
+0.6571881554127833 : k=151, dist=manhattan, kernel=triweight
+0.6842105263157895 : k=151, dist=manhattan, kernel=gaussian
+0.6873564544982399 : k=151, dist=manhattan, kernel=cosine  
+0.6842105263157895 : k=151, dist=manhattan, kernel=logistic
+0.6842105263157895 : k=151, dist=manhattan, kernel=sigmoid 
+0.6738839318853275 : k=151, dist=manhattan, kernel=tricube 
+0.6842105263157895 : k=151, dist=euclidean, kernel=uniform 
+0.6784524061258219 : k=151, dist=euclidean, kernel=triangular
+0.6873564544982399 : k=151, dist=euclidean, kernel=epanechnikov
+0.6661976294188086 : k=151, dist=euclidean, kernel=quartic 
+0.6483187616297489 : k=151, dist=euclidean, kernel=triweight
+0.6842105263157895 : k=151, dist=euclidean, kernel=gaussian
+0.6784524061258219 : k=151, dist=euclidean, kernel=cosine  
+0.6842105263157895 : k=151, dist=euclidean, kernel=logistic
+0.6842105263157895 : k=151, dist=euclidean, kernel=sigmoid 
+0.6616112298262385 : k=151, dist=euclidean, kernel=tricube 
+0.6206877356362055 : k=151, dist=chebyshev, kernel=uniform 
+0.6215317651953415 : k=151, dist=chebyshev, kernel=triangular
+0.6206877356362055 : k=151, dist=chebyshev, kernel=epanechnikov
+0.6211989996916858 : k=151, dist=chebyshev, kernel=quartic 
+0.6380561501855759 : k=151, dist=chebyshev, kernel=triweight
+0.6842105263157895 : k=151, dist=chebyshev, kernel=gaussian
+0.6195761221510994 : k=151, dist=chebyshev, kernel=cosine  
+0.6842105263157895 : k=151, dist=chebyshev, kernel=logistic
+0.6842105263157895 : k=151, dist=chebyshev, kernel=sigmoid 
+0.6246732176672296 : k=151, dist=chebyshev, kernel=tricube
+0.6842105263157895 : k=198, dist=manhattan, kernel=uniform 
+0.6842105263157895 : k=198, dist=manhattan, kernel=triangular
+0.6842105263157895 : k=198, dist=manhattan, kernel=epanechnikov
+0.6842105263157895 : k=198, dist=manhattan, kernel=quartic 
+0.6842105263157895 : k=198, dist=manhattan, kernel=triweight
+0.6842105263157895 : k=198, dist=manhattan, kernel=gaussian
+0.6842105263157895 : k=198, dist=manhattan, kernel=cosine  
+0.6842105263157895 : k=198, dist=manhattan, kernel=logistic
+0.6842105263157895 : k=198, dist=manhattan, kernel=sigmoid 
+0.6842105263157895 : k=198, dist=manhattan, kernel=tricube 
+0.6842105263157895 : k=198, dist=euclidean, kernel=uniform 
+0.6842105263157895 : k=198, dist=euclidean, kernel=triangular
+0.6842105263157895 : k=198, dist=euclidean, kernel=epanechnikov
+0.6842105263157895 : k=198, dist=euclidean, kernel=quartic 
+0.6842105263157895 : k=198, dist=euclidean, kernel=triweight
+0.6842105263157895 : k=198, dist=euclidean, kernel=gaussian
+0.6842105263157895 : k=198, dist=euclidean, kernel=cosine  
+0.6842105263157895 : k=198, dist=euclidean, kernel=logistic
+0.6842105263157895 : k=198, dist=euclidean, kernel=sigmoid 
+0.6842105263157895 : k=198, dist=euclidean, kernel=tricube 
+0.6842105263157895 : k=198, dist=chebyshev, kernel=uniform 
+0.6842105263157895 : k=198, dist=chebyshev, kernel=triangular
+0.6842105263157895 : k=198, dist=chebyshev, kernel=epanechnikov
+0.6842105263157895 : k=198, dist=chebyshev, kernel=quartic 
+0.6842105263157895 : k=198, dist=chebyshev, kernel=triweight
+0.6842105263157895 : k=198, dist=chebyshev, kernel=gaussian
+0.6842105263157895 : k=198, dist=chebyshev, kernel=cosine  
+0.6842105263157895 : k=198, dist=chebyshev, kernel=logistic
+0.6842105263157895 : k=198, dist=chebyshev, kernel=sigmoid 
+0.6842105263157895 : k=198, dist=chebyshev, kernel=tricube
